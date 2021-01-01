@@ -1,0 +1,3 @@
+1608605667
+%255B26747f4aaaeb5efcf52247f75ae1897b83271579%255D%255B1%255D
+a:1:{s:394:"query=SELECT count(DISTINCT d0_.id) AS sclr_0 FROM dtb_product d0_ INNER JOIN dtb_product_class d1_ ON d0_.id = d1_.product_id AND d1_.discriminator_type IN ('productclass') WHERE (d0_.product_status_id = 1 AND d1_.visible = 1) AND d0_.discriminator_type IN ('product') GROUP BY d0_.id&params=a:0:{}&types=a:0:{}&connectionParams=23c20156aba780f89850b8df2883b7e499d2a37c33dc865f7ddd17f64406928a";a:2:{i:0;a:1:{s:6:"sclr_0";s:1:"1";}i:1;a:1:{s:6:"sclr_0";s:1:"1";}}}

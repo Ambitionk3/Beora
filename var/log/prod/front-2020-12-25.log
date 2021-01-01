@@ -1,0 +1,5 @@
+[2020-12-25 21:50:41] front.INFO [N/A] [7d3a416] [N/A] [Eccube\Log\Logger:log:66] - INIT [] [GET, /, 168.119.126.58, http://beora.jp, Mozilla/5.0 (Macintosh; Intel Mac OS X 10.13; rv:61.0) Gecko/20100101 Firefox/73.0]
+[2020-12-25 21:50:41] front.INFO [N/A] [7d3a416] [anon.] [Eccube\Log\Logger:log:66] - PROCESS START ["homepage"] [GET, /, 168.119.126.58, http://beora.jp, Mozilla/5.0 (Macintosh; Intel Mac OS X 10.13; rv:61.0) Gecko/20100101 Firefox/73.0]
+[2020-12-25 21:50:41] front.INFO [N/A] [7d3a416] [anon.] [Eccube\Log\Logger:log:66] - LOGIC START ["homepage"] [GET, /, 168.119.126.58, http://beora.jp, Mozilla/5.0 (Macintosh; Intel Mac OS X 10.13; rv:61.0) Gecko/20100101 Firefox/73.0]
+[2020-12-25 21:50:41] front.INFO [24c48083] [7d3a416] [anon.] [Eccube\Log\Logger:log:66] - LOGIC END ["homepage"] [GET, /, 168.119.126.58, http://beora.jp, Mozilla/5.0 (Macintosh; Intel Mac OS X 10.13; rv:61.0) Gecko/20100101 Firefox/73.0]
+[2020-12-25 21:50:41] app.INFO [N/A] [7d3a416] [anon.] [Eccube\Log\Logger:log:68] - PROCESS END ["homepage"] [GET, /, 168.119.126.58, http://beora.jp, Mozilla/5.0 (Macintosh; Intel Mac OS X 10.13; rv:61.0) Gecko/20100101 Firefox/73.0]
