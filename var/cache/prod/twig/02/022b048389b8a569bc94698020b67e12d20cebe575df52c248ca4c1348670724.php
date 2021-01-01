@@ -172,6 +172,6 @@ class __TwigTemplate_3e534edca90f751be8824a30688a2b8450029c6cfd4d05155175c8e4871
 
     public function getSourceContext()
     {
-        return new Source("", "Block/login_sp.twig", "/home/r6828148/public_html/beora.jp/src/Eccube/Resource/template/default/Block/login_sp.twig");
+        return new Source("", "Block/login_sp.twig", "/Users/kakemizutaishi/Desktop/beora/Beora/src/Eccube/Resource/template/default/Block/login_sp.twig");
     }
 }

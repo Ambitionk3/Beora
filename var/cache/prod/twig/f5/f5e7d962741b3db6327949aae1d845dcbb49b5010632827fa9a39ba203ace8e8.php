@@ -159,6 +159,6 @@ $context["child"], "vars", [], "any", false, false, false, 24), "data", [], "any
 
     public function getSourceContext()
     {
-        return new Source("", "@admin/search_items.twig", "/home/r6828148/public_html/beora.jp/src/Eccube/Resource/template/admin/search_items.twig");
+        return new Source("", "@admin/search_items.twig", "/Users/kakemizutaishi/Desktop/beora/Beora/src/Eccube/Resource/template/admin/search_items.twig");
     }
 }

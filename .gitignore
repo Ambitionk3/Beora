@@ -1,0 +1,4 @@
+*.DS_Store
+**/cache/*
+**var/sessions/prod/*
+!.gitkeep

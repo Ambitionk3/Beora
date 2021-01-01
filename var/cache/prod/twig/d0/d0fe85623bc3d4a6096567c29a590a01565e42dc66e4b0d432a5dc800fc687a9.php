@@ -533,6 +533,6 @@ class __TwigTemplate_afcbc1a39ac00f2c1c50f5ef94d53f1409f8f1ca5f195c5164d9d7e977f
 
     public function getSourceContext()
     {
-        return new Source("", "Entry/index.twig", "/home/r6828148/public_html/beora.jp/src/Eccube/Resource/template/default/Entry/index.twig");
+        return new Source("", "Entry/index.twig", "/Users/kakemizutaishi/Desktop/beora/Beora/src/Eccube/Resource/template/default/Entry/index.twig");
     }
 }

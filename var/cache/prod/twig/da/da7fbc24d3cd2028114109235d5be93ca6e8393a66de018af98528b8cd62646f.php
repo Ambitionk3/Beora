@@ -151,6 +151,6 @@ class __TwigTemplate_f751fd5f9e4b94ec366d717ffb7ee96e290615138963bc7e1ffb708cfed
 
     public function getSourceContext()
     {
-        return new Source("", "Help/tradelaw.twig", "/home/r6828148/public_html/beora.jp/src/Eccube/Resource/template/default/Help/tradelaw.twig");
+        return new Source("", "Help/tradelaw.twig", "/Users/kakemizutaishi/Desktop/beora/Beora/src/Eccube/Resource/template/default/Help/tradelaw.twig");
     }
 }

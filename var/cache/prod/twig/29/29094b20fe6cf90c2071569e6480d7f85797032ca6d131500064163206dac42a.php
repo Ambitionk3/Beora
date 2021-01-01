@@ -784,6 +784,6 @@ class __TwigTemplate_0e8e4d2b9c6dc3dbe7ca60cf75dde8f6fa71e2ff93b745e764e7a1f0bbf
 
     public function getSourceContext()
     {
-        return new Source("", "@admin/Setting/Shop/shop_master.twig", "/home/r6828148/public_html/beora.jp/src/Eccube/Resource/template/admin/Setting/Shop/shop_master.twig");
+        return new Source("", "@admin/Setting/Shop/shop_master.twig", "/Users/kakemizutaishi/Desktop/beora/Beora/src/Eccube/Resource/template/admin/Setting/Shop/shop_master.twig");
     }
 }

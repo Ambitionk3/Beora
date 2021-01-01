@@ -155,6 +155,6 @@ class __TwigTemplate_7b93a0faebfec3b45a33e1d2e68506d07546e9f8415c61b275b6819f221
 
     public function getSourceContext()
     {
-        return new Source("", "Block/category_nav_sp.twig", "/home/r6828148/public_html/beora.jp/src/Eccube/Resource/template/default/Block/category_nav_sp.twig");
+        return new Source("", "Block/category_nav_sp.twig", "/Users/kakemizutaishi/Desktop/beora/Beora/src/Eccube/Resource/template/default/Block/category_nav_sp.twig");
     }
 }
